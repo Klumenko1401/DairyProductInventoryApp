@@ -1,0 +1,172 @@
+[
+  {
+    "$type": "DairyProductInventoryApp.Models.Milk, DairyProductInventoryApp",
+    "Name": "Молоко 2.5%",
+    "Brand": "Простоквашино",
+    "Packaging": "Картон",
+    "FatContent": 2.5,
+    "WeightOrVolume": 1.0,
+    "ExpiryDate": "2025-04-30T13:15:22.3011681+03:00",
+    "Price": 30.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Cheese, DairyProductInventoryApp",
+    "Name": "Гауда",
+    "Brand": "Яготинське",
+    "Packaging": "Вакуум",
+    "FatContent": 45.0,
+    "WeightOrVolume": 0.3,
+    "ExpiryDate": "2025-05-23T13:15:22.3051677+03:00",
+    "Price": 85.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Milk, DairyProductInventoryApp",
+    "Name": "Молоко 3.2%",
+    "Brand": "Молокія",
+    "Packaging": "Пластик",
+    "FatContent": 3.2,
+    "WeightOrVolume": 0.9,
+    "ExpiryDate": "2025-05-10T00:00:00",
+    "Price": 28.5
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Milk, DairyProductInventoryApp",
+    "Name": "Молоко безлактозне",
+    "Brand": "Галичина",
+    "Packaging": "Картон",
+    "FatContent": 1.5,
+    "WeightOrVolume": 1.0,
+    "ExpiryDate": "2025-05-15T00:00:00",
+    "Price": 35.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Milk, DairyProductInventoryApp",
+    "Name": "Молоко топлене",
+    "Brand": "Селянське",
+    "Packaging": "Пластик",
+    "FatContent": 4.0,
+    "WeightOrVolume": 0.5,
+    "ExpiryDate": "2025-05-08T00:00:00",
+    "Price": 20.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Milk, DairyProductInventoryApp",
+    "Name": "Молоко 1%",
+    "Brand": "Ферма",
+    "Packaging": "Картон",
+    "FatContent": 1.0,
+    "WeightOrVolume": 1.0,
+    "ExpiryDate": "2025-05-12T00:00:00",
+    "Price": 27.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Milk, DairyProductInventoryApp",
+    "Name": "Молоко пастеризоване",
+    "Brand": "Яготинське",
+    "Packaging": "Пакет",
+    "FatContent": 2.0,
+    "WeightOrVolume": 0.95,
+    "ExpiryDate": "2025-05-07T00:00:00",
+    "Price": 29.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Cheese, DairyProductInventoryApp",
+    "Name": "Чеддер",
+    "Brand": "Комо",
+    "Packaging": "Вакуум",
+    "FatContent": 50.0,
+    "WeightOrVolume": 0.25,
+    "ExpiryDate": "2025-06-01T00:00:00",
+    "Price": 90.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Cheese, DairyProductInventoryApp",
+    "Name": "Моцарела",
+    "Brand": "Молокія",
+    "Packaging": "Пластик",
+    "FatContent": 40.0,
+    "WeightOrVolume": 0.2,
+    "ExpiryDate": "2025-05-20T00:00:00",
+    "Price": 70.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Cheese, DairyProductInventoryApp",
+    "Name": "Пармезан",
+    "Brand": "Звени Гора",
+    "Packaging": "Вакуум",
+    "FatContent": 38.0,
+    "WeightOrVolume": 0.15,
+    "ExpiryDate": "2025-06-10T00:00:00",
+    "Price": 120.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Cheese, DairyProductInventoryApp",
+    "Name": "Бринза",
+    "Brand": "Селянське",
+    "Packaging": "Пластик",
+    "FatContent": 25.0,
+    "WeightOrVolume": 0.3,
+    "ExpiryDate": "2025-05-25T00:00:00",
+    "Price": 65.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Cheese, DairyProductInventoryApp",
+    "Name": "Едам",
+    "Brand": "Простоквашино",
+    "Packaging": "Вакуум",
+    "FatContent": 42.0,
+    "WeightOrVolume": 0.35,
+    "ExpiryDate": "2025-06-05T00:00:00",
+    "Price": 95.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Yogurt, DairyProductInventoryApp",
+    "Name": "Йогурт вишневий",
+    "Brand": "Агуша",
+    "Packaging": "Пластик",
+    "FatContent": 2.0,
+    "WeightOrVolume": 0.2,
+    "ExpiryDate": "2025-05-14T00:00:00",
+    "Price": 18.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Yogurt, DairyProductInventoryApp",
+    "Name": "Йогурт натуральний",
+    "Brand": "Галичина",
+    "Packaging": "Картон",
+    "FatContent": 3.0,
+    "WeightOrVolume": 0.3,
+    "ExpiryDate": "2025-05-16T00:00:00",
+    "Price": 20.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Yogurt, DairyProductInventoryApp",
+    "Name": "Йогурт персиковий",
+    "Brand": "Молокія",
+    "Packaging": "Пластик",
+    "FatContent": 2.5,
+    "WeightOrVolume": 0.25,
+    "ExpiryDate": "2025-05-18T00:00:00",
+    "Price": 19.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Yogurt, DairyProductInventoryApp",
+    "Name": "Кефір 1%",
+    "Brand": "Яготинське",
+    "Packaging": "Пластик",
+    "FatContent": 1.0,
+    "WeightOrVolume": 0.5,
+    "ExpiryDate": "2025-05-09T00:00:00",
+    "Price": 25.0
+  },
+  {
+    "$type": "DairyProductInventoryApp.Models.Yogurt, DairyProductInventoryApp",
+    "Name": "Йогурт грецький",
+    "Brand": "Ферма",
+    "Packaging": "Пластик",
+    "FatContent": 5.0,
+    "WeightOrVolume": 0.4,
+    "ExpiryDate": "2025-05-13T00:00:00",
+    "Price": 30.0
+  }
+]

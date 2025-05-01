@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hw\\DairyProductInventoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\models\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\models\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\services\\dairyproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\services\\dairyproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\bin\\Debug\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DairyProductInventoryApp\\bin\\Debug\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\views\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\views\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\views\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\views\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\models\\yogurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\models\\yogurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\viewmodels\\notifypropertychangedbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\viewmodels\\notifypropertychangedbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\models\\dairyproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\models\\dairyproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\models\\cheese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\models\\cheese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\models\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\models\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|D:\\hw\\DairyProductInventoryApp\\dairyproductinventoryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6DC36-4B72-463A-AE9E-6290F3CAABCB}|DairyProductInventoryApp\\DairyProductInventoryApp.csproj|solutionrelative:dairyproductinventoryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DairyProductManager.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Services\\DairyProductManager.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Services\\DairyProductManager.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Services\\DairyProductManager.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\Services\\DairyProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:43:27.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "DairyProductInventoryApp\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T09:44:57.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Views\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Views\\ProductWindow.xaml",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Views\\ProductWindow.xaml",
+              "RelativeToolTip": "DairyProductInventoryApp\\Views\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T09:45:09.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:43:44.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAmwIcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:43:53.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\App.xaml",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\App.xaml",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\App.xaml",
+              "RelativeToolTip": "DairyProductInventoryApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T09:45:33.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\MainWindow.xaml",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\MainWindow.xaml",
+              "RelativeToolTip": "DairyProductInventoryApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T09:39:57.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Views\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Views\\ProductWindow.xaml.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Views\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\Views\\ProductWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:51:15.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DairyProduct.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\DairyProduct.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Models\\DairyProduct.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\DairyProduct.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\Models\\DairyProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:42:06.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "products.json",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\bin\\Debug\\products.json",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\bin\\Debug\\products.json",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\bin\\Debug\\products.json",
+              "RelativeToolTip": "DairyProductInventoryApp\\bin\\Debug\\products.json",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAcwKsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T13:59:36.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DairyProductDTO.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\DairyProductDTO.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Models\\DairyProductDTO.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\DairyProductDTO.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\Models\\DairyProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:42:43.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Yogurt.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\Yogurt.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Models\\Yogurt.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\Yogurt.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\Models\\Yogurt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:42:34.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cheese.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\Cheese.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Models\\Cheese.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\Cheese.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\Models\\Cheese.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:42:26.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\Milk.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Models\\Milk.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Models\\Milk.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\Models\\Milk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:42:17.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\App.xaml.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\App.xaml.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:51:50.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:45:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:44:03.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotifyPropertyChangedBase.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\ViewModels\\NotifyPropertyChangedBase.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\ViewModels\\NotifyPropertyChangedBase.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\ViewModels\\NotifyPropertyChangedBase.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\ViewModels\\NotifyPropertyChangedBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:43:36.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DairyProductInventoryApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\hw\\DairyProductInventoryApp\\DairyProductInventoryApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DairyProductInventoryApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:39:55.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
